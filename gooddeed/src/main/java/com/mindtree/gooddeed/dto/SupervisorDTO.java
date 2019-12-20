@@ -10,7 +10,6 @@ public class SupervisorDTO {
 	private GoodDeedDTO gooddeed;
 	public SupervisorDTO() {
 		super();
-		// TODO Auto-generated constructor stub
 	}
 	public SupervisorDTO(int supervisorId, String supervisorName, GoodDeedDTO gooddeed) {
 		super();
